@@ -18,6 +18,10 @@ Click here to view division function.
 Click here to view relationaloperator function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Arun-dataweave&path=functions/relationaloperator">Visit Dataweave playground</a>
 
+Click here to view logicaloperator function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Arun-dataweave&path=functions/logicaloperator">Visit Dataweave playground</a>
+
+
 
 
 
