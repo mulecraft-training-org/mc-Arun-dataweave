@@ -21,6 +21,9 @@ Click here to view relationaloperator function.
 Click here to view logicaloperator function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Arun-dataweave&path=functions/logicaloperator">Visit Dataweave playground</a>
 
+Click here to view logicalAND function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Arun-dataweave&path=functions/logicalAND">Visit Dataweave playground</a>
+
 
 
 
