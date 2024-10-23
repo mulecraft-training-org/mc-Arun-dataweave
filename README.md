@@ -24,6 +24,18 @@ Click here to view logicaloperator function.
 Click here to view logicalAND function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Arun-dataweave&path=functions/logicalAND">Visit Dataweave playground</a>
 
+Click here to view equal to function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Arun-dataweave&path=functions/equal to">Visit Dataweave playground</a>
+
+Click here to view lessthan function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Arun-dataweave&path=functions/lessthan">Visit Dataweave playground</a>
+
+Click here to view lessthan or equalto function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Arun-dataweave&path=functions/lessthan or equalto">Visit Dataweave playground</a>
+
+Click here to view greaterthan or equalto function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Arun-dataweave&path=functions/greaterthan or equalto">Visit Dataweave playground</a>
+
 
 
 
