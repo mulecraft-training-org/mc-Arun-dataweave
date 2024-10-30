@@ -36,6 +36,10 @@ Click here to view lessthan or equalto function.
 Click here to view greaterthan or equalto function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Arun-dataweave&path=functions/greaterthan or equalto">Visit Dataweave playground</a>
 
+Click here to view now function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Arun-dataweave&path=functions/now">Visit Dataweave playground</a>
+
+
 
 
 
