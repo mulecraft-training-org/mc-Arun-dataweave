@@ -1,1 +1,14 @@
-
+[
+  {
+    "fullName": "John",
+    "birthYear": 1999
+  },
+  {
+    "fullName": "Alice",
+    "birthYear": 1994
+  },
+  {
+    "fullName": "Bob",
+    "birthYear": 2002
+  }
+]
