@@ -39,7 +39,7 @@ Click here to view greaterthan or equalto function.
 Click here to view now function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/now">Visit Dataweave playground</a>
 
-Click here to view faltten function.  
+Click here to view flatten function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/faltten">Visit Dataweave playground</a>
 
 Click here to view filter function.  
