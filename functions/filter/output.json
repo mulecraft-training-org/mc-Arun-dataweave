@@ -1,0 +1,18 @@
+[
+  {
+    "Empname": "123",
+    "BossName": "456"
+  },
+  {
+    "Empname": "345",
+    "BossName": "789"
+  },
+  {
+    "Empname": "456",
+    "BossName": "345"
+  },
+  {
+    "Empname": "789",
+    "BossName": "456"
+  }
+]
