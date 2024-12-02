@@ -45,4 +45,6 @@ Click here to view faltten function.
 Click here to view filter function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/filter">Visit Dataweave playground</a>
 
+Click here to view reverse function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/reverse">Visit Dataweave playground</a>
 
