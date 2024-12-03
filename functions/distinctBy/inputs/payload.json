@@ -1,0 +1,6 @@
+[
+    { "productID": 101, "name": "Laptop", "price": 1200, "category": "Electronics" },
+    { "productID": 102, "name": "Shoes", "price": 50, "category": "Footwear" },
+    { "productID": 103, "name": "Smartphone", "price": 800, "category": "Electronics" },
+    { "productID": 104, "name": "Jacket", "price": 100, "category": "Apparel" }
+  ]
