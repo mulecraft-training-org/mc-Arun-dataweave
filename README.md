@@ -49,9 +49,8 @@ Click here to view reverse function.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/reverse">Visit Dataweave playground</a> 
 
 Click here to view orderBy function.  
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/orderBy">Visit Dataweave playground</a
-                                                                                                                                                                                
-                                                                                                                    Click here to view distinctBy function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/orderBy">Visit Dataweave playground</a>
+                                                                                                                        Click here to view distinctBy function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/distinctBy">Visit Dataweave playground</a>
 
 
