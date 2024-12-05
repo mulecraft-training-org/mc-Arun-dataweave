@@ -60,5 +60,8 @@ Click here to view reduce function.
 Click here to view pluck function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/pluck">Visit Dataweave playground</a>
 
+click here to view trim function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/trim">Visit Dataweave playground</a>
+
 
 
