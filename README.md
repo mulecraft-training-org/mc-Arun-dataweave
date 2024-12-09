@@ -63,5 +63,6 @@ click here to view trim function.
 Click here to view flatten function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/flatten">Visit Dataweave playground</a>
 
-
+Click here to view flatmap function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/flatmap">Visit Dataweave playground</a>
 
