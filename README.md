@@ -39,10 +39,7 @@ Click here to view greaterthan or equalto function.
 Click here to view now function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/now">Visit Dataweave playground</a>
 
-Click here to view flatten function.  
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/faltten">Visit Dataweave playground</a>
-
-Click here to view filter function.  
+click here to view filter function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/filter">Visit Dataweave playground</a>
 
 Click here to view reverse function.  
@@ -62,6 +59,9 @@ Click here to view pluck function.
 
 click here to view trim function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/trim">Visit Dataweave playground</a>
+
+Click here to view flatten function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/flatten">Visit Dataweave playground</a>
 
 
 
