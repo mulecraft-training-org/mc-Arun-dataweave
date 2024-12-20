@@ -68,7 +68,7 @@ Click here to view flatmap function.
 
 ## TASKS IN DATAWEAVE
 
-Click here to view Task1(Library Book Management).  
+Click here to view Task1.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=Tasks/Task1">Visit Dataweave playground</a> 
 
 Click here to view Task2( Employee Task Tracker).  
