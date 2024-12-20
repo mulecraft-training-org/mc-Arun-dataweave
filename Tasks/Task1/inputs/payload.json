@@ -1,0 +1,12 @@
+{
+  "books": [
+    { "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "copies": 3 },
+    { "title": "Moby Dick", "author": "Herman Melville", "copies": 1 },
+    { "title": "To Kill a Mockingbird", "author": "Harper Lee", "copies": 0 },
+    { "title": "1984", "author": "George Orwell", "copies": 5 },
+    { "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "copies": 2 }
+  ],
+  "metadata": {
+    "lastUpdated": "2024-12-16"
+  }
+}
