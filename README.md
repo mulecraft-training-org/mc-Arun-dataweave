@@ -64,5 +64,16 @@ Click here to view flatten function.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/flatten">Visit Dataweave playground</a>
 
 Click here to view flatmap function.  
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/flatmap">Visit Dataweave playground</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/flatmap">Visit Dataweave playground</a> 
+
+## TASKS IN DATAWEAVE
+
+Click here to view Task1(Library Book Management).  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=Tasks/Task1">Visit Dataweave playground</a> 
+
+Click here to view Task2( Employee Task Tracker).  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=Tasks/Task2">Visit Dataweave playground</a> 
+
+Click here to view Task3(Customer Order Management).  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=Tasks/Task3">Visit Dataweave playground</a>
 
