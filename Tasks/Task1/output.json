@@ -1,25 +1,17 @@
 {
-  "highValueOrders": [
-    {
-      "orderId": 104,
-      "customer": "Charlie",
-      "amount": 200
-    },
-    {
-      "orderId": 102,
-      "customer": "Bob",
-      "amount": 150
-    }
+  "availableBooks": [
+    { "title": "The Great Gatsby", "author": "F. Scott Fitzgerald" },
+    { "title": "Moby Dick", "author": "Herman Melville" },
+    { "title": "1984", "author": "George Orwell" }
   ],
-  "uniqueCustomers": [
-    "Alice",
-    "Bob",
-    "Charlie"
+  "uniqueBooks": [
+    { "title": "The Great Gatsby", "author": "F. Scott Fitzgerald" },
+    { "title": "Moby Dick", "author": "Herman Melville" },
+    { "title": "To Kill a Mockingbird", "author": "Harper Lee" },
+    { "title": "1984", "author": "George Orwell" }
   ],
-  "totalAmount": 565.75,
-  "trimmedCustomerNames": [
-    "Alice",
-    "Bob",
-    "Charlie"
-  ]
+  "sortedTitles": ["1984", "Moby Dick", "The Great Gatsby", "To Kill a Mockingbird"],
+  "totalCopies": 11,
+  "currentTimestamp": "2024-12-18T12:34:56.789Z"
 }
+
