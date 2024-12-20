@@ -1,0 +1,8 @@
+{
+  "tasks": [
+    { "employee": "Alice", "task": "Submit report", "hours": 4 },
+    { "employee": "Bob", "task": "Fix server issues", "hours": 8 },
+    { "employee": "Alice", "task": "Prepare presentation", "hours": 6 },
+    { "employee": "Charlie", "task": "Review code", "hours": 2 }
+  ]
+}
