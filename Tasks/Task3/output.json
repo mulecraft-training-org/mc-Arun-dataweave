@@ -1,0 +1,38 @@
+{
+  "taskReversed": [
+    {
+      "employee": "Charlie",
+      "task": "Review code",
+      "hours": 2
+    },
+    {
+      "employee": "Alice",
+      "task": "Prepare presentation",
+      "hours": 6
+    },
+    {
+      "employee": "Bob",
+      "task": "Fix server issues",
+      "hours": 8
+    },
+    {
+      "employee": "Alice",
+      "task": "Submit report",
+      "hours": 4
+    }
+  ],
+  "totalHours": 20,
+  "taskNames": [
+    "Submit report",
+    "Fix server issues",
+    "Prepare presentation",
+    "Review code"
+  ],
+  "flattenedTasks": [
+    "Alice: Submit report",
+    "Bob: Fix server issues",
+    "Alice: Prepare presentation",
+    "Charlie: Review code"
+  ],
+  "currentTime": "2024-12-20T06:34:44.317955Z"
+}
