@@ -65,6 +65,13 @@ Click here to view flatten function.
 
 Click here to view flatmap function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/flatmap">Visit Dataweave playground</a> 
+Click here to view abs function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/abs">Visit Dataweave playground</a>
+Click here to view avg function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/avg">Visit Dataweave playground</a>
+Click here to view ceil function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/ceil">Visit Dataweave playground</a>
+
 
 ## TASKS IN DATAWEAVE
 
