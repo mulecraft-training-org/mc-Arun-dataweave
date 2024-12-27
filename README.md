@@ -75,6 +75,14 @@ Click here to view avg function.
 Click here to view ceil function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/ceil">Visit Dataweave playground</a>
 
+Click here to view contains function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/contains">Visit Dataweave playground</a>
+
+Click here to view splitBy function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/splitBy">Visit Dataweave playground</a>
+
+Click here to view joinBy function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/joinBy">Visit Dataweave playground</a>
 
 ## TASKS IN DATAWEAVE
 
