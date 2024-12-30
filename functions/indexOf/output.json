@@ -1,0 +1,9 @@
+{
+  "integer Indexof": 3,
+  "string indexOf": [
+    3,
+    0,
+    -1,
+    -1
+  ]
+}
