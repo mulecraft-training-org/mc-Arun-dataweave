@@ -84,6 +84,12 @@ Click here to view splitBy function.
 Click here to view joinBy function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/joinBy">Visit Dataweave playground</a>
 
+Click here to view indexOf function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/indexOf">Visit Dataweave playground</a>
+
+Click here to view lastIndexOf function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/lastIndexOf">Visit Dataweave playground</a>
+
 ## TASKS IN DATAWEAVE
 
 Click here to view Task1.  
