@@ -96,6 +96,21 @@ Click here to view max function.
 Click here to view maxBy function.  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/maxBy">Visit Dataweave playground</a>
 
+Click here to view min function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/min">Visit Dataweave playground</a>
+
+Click here to view minBy function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/minBy">Visit Dataweave playground</a>
+
+Click here to view to function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/to">Visit Dataweave playground</a>
+
+Click here to view sqrt function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/sqrt">Visit Dataweave playground</a>
+
+Click here to view power function.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=functions/power">Visit Dataweave playground</a>
+
 ## TASKS IN DATAWEAVE
 
 Click here to view Task1.  
