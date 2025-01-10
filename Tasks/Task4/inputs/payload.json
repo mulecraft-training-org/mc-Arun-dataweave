@@ -1,0 +1,5 @@
+{  "energyConsumption":
+  {    "monthlyUsage": 
+   [100, 200, 150, 175, 250],    "year": 2023 
+  }
+}
