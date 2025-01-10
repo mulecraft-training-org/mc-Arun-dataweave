@@ -122,3 +122,12 @@ Click here to view Task2( Employee Task Tracker).
 Click here to view Task3(Customer Order Management).  
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=Tasks/Task3">Visit Dataweave playground</a>
 
+Click here to view Task4.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=Tasks/Task4">Visit Dataweave playground</a>
+
+Click here to view Task5.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=Tasks/Task5">Visit Dataweave playground</a>
+
+Click here to view Task6.  
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Arun-dataweave&path=Tasks/Task6">Visit Dataweave playground</a>
+
